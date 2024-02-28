@@ -1,0 +1,90 @@
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\DAL.dll.config
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\DAL.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\DAL.pdb
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\EntityFramework.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\EntityFramework.SqlServer.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\EntityFramework.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\EntityFramework.SqlServer.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\obj\Debug\DAL.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\obj\Debug\DAL.pdb
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\Microsoft.Extensions.Options.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Buffers.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Memory.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Numerics.Vectors.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\Microsoft.Extensions.Options.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Buffers.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Memory.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Numerics.Vectors.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\DAL.dll.config
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\DAL.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\DAL.pdb
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\EntityFramework.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Buffers.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Memory.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\EntityFramework.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Buffers.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Memory.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.pdb
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\DAL.dll.config
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\DAL.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\DAL.pdb
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\EntityFramework.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Buffers.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Memory.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\EntityFramework.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Buffers.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Memory.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\DAL\obj\Debug\DAL.pdb

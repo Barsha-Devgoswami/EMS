@@ -1,0 +1,45 @@
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\BLL.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\BLL.pdb
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\DAL.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\EntityFramework.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\DAL.pdb
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\DAL.dll.config
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\EntityFramework.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.pdb
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\BLL.dll.config
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\EntityFramework.SqlServer.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\BLL.dll.config
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\BLL.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\BLL.pdb
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\DAL.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\EntityFramework.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\DAL.pdb
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\DAL.dll.config
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\EntityFramework.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.dll
+D:\MYSQL\Phase-3\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.pdb
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\BLL.dll.config
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\BLL.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\BLL.pdb
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\DAL.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\EntityFramework.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\DAL.pdb
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\DAL.dll.config
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\EntityFramework.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.dll
+C:\Users\devgo\Music\New folder\Practice Projects.zipphase 2\Practice Projects\Phase end Project\EMS\BLL\obj\Debug\BLL.pdb
